@@ -86,6 +86,3 @@ void loop(){
     }
     delay(100); //delaying the whole process (can make this value larger if there are a lot of values being shown at once)
 }
-
-
-
