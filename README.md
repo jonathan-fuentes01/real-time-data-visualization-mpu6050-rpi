@@ -11,6 +11,6 @@ For more information on the ESP8266 you can click [here](https://www.taydaelectr
 
 ### Adafruit MPU-6050
 
-The MPU 6050 is a six-axis accelerometer and gyroscope that uses 16-bit measurements. This means that our ESP8266 module can work with the MPU 6050. You typically connect both VCC and GND to the microcontroller to allow current for proper communication, and SDA and SCL to the appropriate pins for serial data and serial Clock on the microcontroller. The SDA is the line for transmitting data and the SCL is the timing of the transmission of the data. The I2C address on the IMU is 0x68. The library that I used for the MPU 6050 was the Electronic Cats MPU-6050 library.
+The MPU 6050 is a 6-axis accelerometer and gyroscope that uses 16-bit measurements. This means that our ESP8266 module can work with the MPU 6050. You typically connect both VCC and GND to the microcontroller to allow current for proper communication, and SDA and SCL to the appropriate pins for serial data and serial Clock on the microcontroller. The SDA is the line for transmitting data and the SCL is the timing of the transmission of the data. The I2C address on the IMU is 0x68. The library that I used for the MPU 6050 was the Electronic Cats MPU-6050 library.
 
 For more information on the MPU-6050 you can click [here](https://invensense.tdk.com/wp-content/uploads/2015/02/MPU-6000-Datasheet1.pdf)
