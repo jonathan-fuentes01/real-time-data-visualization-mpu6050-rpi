@@ -5,8 +5,8 @@
 #include <ESP8266HTTPClient.h>
 #include <ArduinoJson.h>
 
-#define WIFI_SSID "SpectrumSetup-71"
-#define WIFI_PSWD "budgetagency975"
+#define WIFI_SSID ""
+#define WIFI_PSWD ""
 #define server_url "https://"
 
 MPU6050 mpu; //Creating an instance of the MPU 6050 class
