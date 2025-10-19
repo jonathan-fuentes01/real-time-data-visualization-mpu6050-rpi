@@ -1,5 +1,5 @@
 # Real-Time Data Visualization using MING IoT Stack
-Data-visualization project at 0.2hz using MING IoT stack and Helix on Raspberry Pi single-board computer flashed with Ubuntu Server operating system.
+Data-visualization project at 0.2hz using MING IoT stack and Helix on Raspberry Pi single-board computer imaged with Ubuntu Server operating system.
 
 ## Information on Hardware Used
 
