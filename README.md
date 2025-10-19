@@ -1,5 +1,5 @@
 # Real-Time Data Visualization using MING IoT Stack
-Learning how to get the ESP8266 to transfer data from an accelerometer on Wifi connection to a data server hosted on a Raspberry Pi 3.
+Data-visualization project at 0.2hz using MING IoT stack and Helix on Raspberry Pi single-board computer flashed with Ubuntu Server operating system.
 
 ## Information on Hardware Used
 
